@@ -26,7 +26,7 @@ const randomjokeGnerator=btn1.addEventListener("click", function(){
 
         // console.log(data)
         return type;
-    })
+    })asdf
     .then((type)=>{
         console.log(type);
         
